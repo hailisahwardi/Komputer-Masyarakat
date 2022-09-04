@@ -1,10 +1,19 @@
 # KELOMPOK 8
 ### Nama Anggota :
-### Fahrul Ikhsan Hidayatullah (1910131210004), Haili Sahwardi ()
+### Fahrul Ikhsan Hidayatullah (1910131210004), Haili Sahwardi (1910131210016)
 ---
 # 1980 _Commercially Available Ethernet_ - 1983 _Microsoft Word_
 ---
 ### a. 1980 _Commercially Available Ethernet_
+1.1 Jenis-jenis LAN
+Berbagai jenis LAN pada dasarnya ada dua jenis yaitu: ARCnet dan Ethernet. ARCNET (Attached Resource Computer NETwork) adalah salah satu jenis protokol jaringan area lokal yang tertua, paling sederhana, dan paling murah, yang fungsinya mirip dengan Ethernet atau Token Ring. ARCNET adalah sistem jaringan pertama yang tersedia secara luas untuk mikrokomputer dan menjadi populer pada 1980-an untuk tugas otomatisasi kantor. ARCnet diperkenalkan oleh Datapoint Corporation pada tahun 1977. Keuntungan khusus dari ARCNET adalah memungkinkan berbagai jenis media transmisi -twisted-pair wire, coaxial cable, dan fiber optic cable -untuk dicampur pada jaringan yang sama.
+Spesifikasinya adalah ANSI 878.1. Itu dapat memiliki hingga 255 node pernetwork.
+
+1.2 Ethernet
+Ethernet adalah cara standar menghubungkan komputer untuk membuat jaringan. Bisa dikatakan juga bahwa Ethernet sebagai semacam kode pembangunan untuk jaringan, ini menentukan jenis kabel apa yang digunakan, bagaimana menghubungkan kabel, berapa lama kabel bisa digunakan, bagaimana komputer mengirimkan data ke satu sama lain dengan menggunakan kabel, dan banyak lagi. Ethernet sering disebut oleh para ahli jaringan sebagai 802.3²⁹³.
+
+1.3 1980 Commercially Available Ethernet
+Ethernet adalah teknologi jaringan komputer untuk jaringan area lokal yang diperkenalkan secara komersial pada tahun 1980. Distandarisasi dalam IEEE 802.3, Ethernet sebagian besar telah menggantikan teknologi jaringan area lokal kabel yang bersaing. Ethernet menggunakan jaringan topologi bus atau star dan mendukung kecepatan transfer data 10 Mbps. Dan versi terbaru, Gigabit Ethernet mendukung kecepatan data 1 gigabit (1.000 megabit) per detik. Ethernet adalah teknologi lapisan fisik dan data link untuk jaringan area lokal (LAN). Jaringan Ethernet ditemukan oleh insinyur Robert Metcalfe. 
 
 ### b. 1983 _Microsoft Word_ 
 2.1 Microsoft office
